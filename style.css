@@ -1,0 +1,16 @@
+h1 {
+    background-color: blue;
+}
+
+a.button {
+    height: 525px;
+    width: 500px;
+    background-image: url("kscreaming.jpeg");
+    display: inline-block;
+}
+a#screamingK:hover {
+    background-position-y: -525px;
+}
+a#screamingK:active {
+    background-position-y: -1050px;
+}
